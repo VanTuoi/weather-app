@@ -2,6 +2,8 @@
 
 This is a simple weather application built using Java Swing. It allows users to search for weather information by city and displays the current temperature, weather description, humidity, and wind speed. It also features a toggle for Celsius/Fahrenheit units and a light/dark theme switch.
 
+![Weather App Screenshot](screenshot.png)
+
 ## Features
 
 * **Search by City:** Enter a city name to retrieve the current weather information.
